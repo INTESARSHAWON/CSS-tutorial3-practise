@@ -1,5 +1,5 @@
 #navbar{
-    color: red;
+    color: orange;
     background-color: black;
     display: flex;
     flex-direction: row;
@@ -9,7 +9,7 @@
 
 a{
     text-decoration: none;
-    color: red;
+    color: orange;
     /* background-color: aqua; */
     
 }
@@ -32,6 +32,6 @@ li{
 #inner{
     height: 100px;
     width: 100px;
-    background-color: red;
+    background-color: orange;
 }
 
