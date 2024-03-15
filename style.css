@@ -35,3 +35,15 @@ li{
     background-color: orange;
 }
 
+/* display: flex */
+/* text align: center */
+/* flex dierection: row, row reverse,column, coloumn reverse */
+/* justify content: flex start, flex end, centre, space around, space evenly, space between*/
+/* flex-wrap: wrap; */
+/* align items: flex start, flex end, centre, space around, space evenly, space between*/
+/* horizontaly kaj korar jonne justify content, vertically kaj korar jonne align items, most important lines */
+
+/* align-content: flex start, flex end, centre, space around, space evenly, space between* */
+
+/* align self er priority sobcheye beshi hoy */
+/* flex-shrink age theke choto kore, flex grow ager theke boro kore */
