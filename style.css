@@ -20,8 +20,8 @@ li{
 }
 
 #outer{
-    height: 200px;
-    width: 200px;
+    height: 400px;
+    width: 400px;
     background-color: blue;
     display: flex;
     flex-direction: row;
@@ -30,8 +30,8 @@ li{
 }
 
 #inner{
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     background-color: orange;
 }
 
